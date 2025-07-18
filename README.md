@@ -77,19 +77,20 @@ I'm a Front-End Developer with a strong passion for building engaging, user-frie
   <p>Here are a couple of projects I'm particularly proud of. Check out my other work in the repositories tab!</p>
   <br/>
   <div>
-    <a href="https://github.com/MuratGuelr/movie_app">
-      <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=MuratGuelr&repo=movie_app&theme=tokyonight&hide_border=false&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae&border_color=2F80ED" alt="MovieApp - Movie Discovery Platform" />
+    <a href="https://github.com/rahilibrahimi/pneumonia_detection_xray_project">
+      <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=rahilibrahimi&repo=pneumonia_detection_xray_project&theme=tokyonight&hide_border=false&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae&border_color=2F80ED" alt="Pneumonia Detection X-ray Project" />
     </a>
-    <a href="https://github.com/MuratGuelr/frontend-interview">
-      <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=MuratGuelr&repo=frontend-interview&theme=tokyonight&hide_border=false&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae&border_color=2F80ED" alt="Frontend Interview Preparation App" />
+    <a href="https://github.com/rahilibrahimi/capstone-Project">
+      <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=rahilibrahimi&repo=capstone-Project&theme=tokyonight&hide_border=false&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae&border_color=2F80ED" alt="Capstone Project" />
     </a>
   </div>
   
   <br/>
-  <a href="https://github.com/MuratGuelr?tab=repositories" target="_blank">
+  <a href="https://github.com/rahilibrahimi?tab=repositories" target="_blank">
     <img src="https://custom-icon-badges.demolab.com/badge/-View%20All%20My%20Repositories-1a1b27?style=for-the-badge&logoColor=white&logo=repo&labelColor=2F80ED" alt="All Repositories" />
   </a>
 </div>
+
 
 <br/>
 
@@ -100,7 +101,7 @@ I'm a Front-End Developer with a strong passion for building engaging, user-frie
     <img src="https://img.shields.io/badge/GitHub-1a1b27?style=for-the-badge&logo=github&logoColor=white&labelColor=2F80ED" alt="GitHub" />
   </a>
   &nbsp;&nbsp;
-  <a href="mailto:consolaktifofficial@gmail.com" target="_blank">
+  <a href="mailto:rahilibrahim047@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-1a1b27?style=for-the-badge&logo=gmail&logoColor=white&labelColor=2F80ED" alt="Email" />
   &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/rahil-ibrahimi" target="_blank">
@@ -112,12 +113,6 @@ I'm a Front-End Developer with a strong passion for building engaging, user-frie
 
 <div align="center">
   <i>"The journey of a thousand miles begins with a single step."</i>
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31ajiq3dzak6nrbjzaeyad727fvu&unique=true&count=2&theme=tokyonight&background_color=1a1b27&border_color=2F80ED&text_color=70a5fd&title_color=38bdae" alt="Spotify Recently Played" width="400" />
 </div>
 
 <div align="center">
