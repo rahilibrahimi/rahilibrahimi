@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi, I'm Rahil İbrahimi 👋</h1>
-  <p><strong>React.js Front-End Developer | JavaScript | HTML5 & CSS3 | Building intuitive and performant user interfaces for user-centric web applications.</strong></p>
+  <p><strong> Computer Engineering |AI Researcher | Passionate about Machine Learning, Deep Learning, and Real-World AI Applications | React.js Developer </strong></p>
 </div>
 
 <div align="center">
@@ -19,15 +19,16 @@
 
 <img align="right" alt="Coding Animation" src="https://i.giphy.com/Y4ak9Ki2GZCbJxAnJD.webp" width="300" style="max-width: 100%; height: auto;" />
 
-### 👨‍💻 About Me
-I'm a Front-End Developer with a strong passion for building engaging, user-friendly, and accessible web applications. I thrive on transforming complex problems into intuitive digital experiences.
-
-- 🚀 Currently focused on developing robust applications with **React, Vite, and Tailwind CSS**.
-- 💡 Expertise in **JavaScript, HTML5, CSS3**, and modern front-end workflows.
-- 🌱 Always learning and exploring new technologies to enhance user experiences and development efficiency.
-- 🎯 Seeking opportunities to contribute to innovative projects and grow as a key member of a dynamic team.
-- 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/rahil-ibrahimi)**
-
+👨‍💻 About Me
+I'm a Computer Engineer, AI Researcher, and Full-Stack Developer with a strong passion for building intelligent and user-centered web applications.
+🤖 Specialized in Machine Learning, Deep Learning, and their real-world applications in domains like healthcare and smart recommendation systems.
+💻 Experienced in React.js, Vite, and Tailwind CSS for building modern, responsive, and scalable front-end interfaces.
+🧠 Skilled in Python, TensorFlow, scikit-learn, and developing end-to-end AI systems.
+💡 Solid foundation in JavaScript, HTML5, CSS3, and modern web development practices.
+🧪 Focused on applying AI to enhance usability, automation, and decision-making in real-world problems.
+🌱 Constantly learning and exploring emerging technologies in both AI and web development.
+🎯 Seeking opportunities to contribute to impactful, innovative projects in tech and AI.
+📫 How to reach me: LinkedIn
 <br clear="right"/>
 
 ### 🛠️ My Tech Stack
