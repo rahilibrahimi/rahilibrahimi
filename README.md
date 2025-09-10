@@ -17,7 +17,7 @@
 
 <br/>
 
-<img align="right" alt="Coding Animation" src="https://i.giphy.com/Y4ak9Ki2GZCbJxAnJD.webp" width="300" style="max-width: 100%; height: auto;" />
+<img align="right" alt="Coding Animation" src="https://i.giphy.com/media/3o7aD4U0p8FQOVQ2aY/giphy.gif" width="300" style="max-width: 100%; height: auto;" />
 
 👨‍💻 About Me
 I'm a Computer Engineer, AI Researcher, and Full-Stack Developer with a strong passion for building intelligent and user-centered web applications.
@@ -30,92 +30,3 @@ I'm a Computer Engineer, AI Researcher, and Full-Stack Developer with a strong p
 🎯 Seeking opportunities to contribute to impactful, innovative projects in tech and AI.
 📫 How to reach me: LinkedIn
 <br clear="right"/>
-
-### 🛠️ My Tech Stack
-<div align="center" style="margin: 20px 0">
-  <a href="https://react.dev" target="_blank"><img src="https://skillicons.dev/icons?i=react" alt="React" width="48" height="48" /></a>
-  <a href="https://code.visualstudio.com/" target="_blank"><img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" width="48" height="48" /></a>
-  <a href="https://vitejs.dev" target="_blank"><img src="https://skillicons.dev/icons?i=vite" alt="Vite" width="48" height="48" /></a>
-  <a href="https://tailwindcss.com" target="_blank"><img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" width="48" height="48" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="48" height="48" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://skillicons.dev/icons?i=html" alt="HTML5" width="48" height="48" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://skillicons.dev/icons?i=css" alt="CSS3" width="48" height="48" /></a>
-  <a href="https://firebase.google.com" target="_blank"><img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" width="48" height="48" /></a>
-  <a href="https://getbootstrap.com" target="_blank"><img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" width="48" height="48" /></a>
-  <a href="https://github.com" target="_blank"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="48" height="48" /></a>
-  <a href="https://git-scm.com/" target="_blank"><img src="https://skillicons.dev/icons?i=git" alt="Git" width="48" height="48" /></a>
-  <a href="https://www.adobe.com/products/illustrator.html" target="_blank"><img src="https://skillicons.dev/icons?i=ai" alt="Illustrator" width="48" height="48" /></a>
-  <a href="https://www.adobe.com/products/photoshop.html" target="_blank"><img src="https://skillicons.dev/icons?i=ps" alt="Photoshop" width="48" height="48" /></a>
-  
-  
-</div>
-
-### 📊 GitHub Stats
-
-<div class="github-stats">
-  <div class="stats-container">
-    <a href="https://github.com/MuratGuelr" class="stats-link">
-    <div align="center">
-      <img class="stats-card" height="180em" src="https://github-readme-stats.vercel.app/api?username=rahilibrahimi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&bg_color=1a1b27&border_color=2F80ED&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae&hide_border=false" alt="GitHub Stats" />
-    </a>
-    <a href="https://github.com/rahilibrahimi?tab=repositories" class="stats-link">
-      <img class="stats-card" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahilibrahimi&layout=compact&langs_count=6&theme=tokyonight&bg_color=1a1b27&border_color=2F80ED&title_color=70a5fd&text_color=38bdae&hide_border=false" alt="Top Languages" />
-    </a>
-  </div>
-</div>
-
-### 📈 Activity Graph
-
-<div class="activity-graph">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rahilibrahimi&theme=tokyo-night&area=true&hide_border=true" width="100%" class="activity-animation"/>
-</div>
-
-<br/>
-
-## 📚 Featured Repositories
-
-<div align="center">
-  <p>Here are a couple of projects I'm particularly proud of. Check out my other work in the repositories tab!</p>
-  <br/>
-  <div>
-    <a href="https://github.com/rahilibrahimi/pneumonia_detection_xray_project">
-      <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=rahilibrahimi&repo=pneumonia_detection_xray_project&theme=tokyonight&hide_border=false&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae&border_color=2F80ED" alt="Pneumonia Detection X-ray Project" />
-    </a>
-    <a href="https://github.com/rahilibrahimi/capstone-Project">
-      <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=rahilibrahimi&repo=capstone-Project&theme=tokyonight&hide_border=false&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae&border_color=2F80ED" alt="Capstone Project" />
-    </a>
-  </div>
-  
-  <br/>
-  <a href="https://github.com/rahilibrahimi?tab=repositories" target="_blank">
-    <img src="https://custom-icon-badges.demolab.com/badge/-View%20All%20My%20Repositories-1a1b27?style=for-the-badge&logoColor=white&logo=repo&labelColor=2F80ED" alt="All Repositories" />
-  </a>
-</div>
-
-
-<br/>
-
-### 🤝 Let's Connect
-
-<div align="center">
-  <a href="https://github.com/rahilibrahimi" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-1a1b27?style=for-the-badge&logo=github&logoColor=white&labelColor=2F80ED" alt="GitHub" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:rahilibrahim047@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-1a1b27?style=for-the-badge&logo=gmail&logoColor=white&labelColor=2F80ED" alt="Email" />
-  &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/rahil-ibrahimi" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-1a1b27?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=2F80ED" alt="LinkedIn" />
-  </a>
-</div>
-
-### 💬 Quote
-
-<div align="center">
-  <i>"The journey of a thousand miles begins with a single step."</i>
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=2F80ED&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=70a5fd&animation=twinkling&fontAlignY=65&background=1a1b27" width="100%"/>
-</div>
